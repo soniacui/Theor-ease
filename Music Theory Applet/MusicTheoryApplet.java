@@ -17,8 +17,6 @@ people who just simply want to learn more about music. The Music Theory Applet c
 
 Author: Sonia Cui
 Date: January 23, 2018
-For: Mr. Berry
-Course: ICS4U
 
 Functions:
 - displays a welcome screen upon starting program
